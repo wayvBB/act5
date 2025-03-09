@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://wayvbb.github.io/act5/", 
+  "homepage": "https://wayvbb.github.io/act5/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
